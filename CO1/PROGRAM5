@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>registration form</title>
+</head>
+<body bgcolor="PINK">
+<form>
+<h1 align="center">JOB APPLICATION</h1>
+NAME:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="text"name="name"size="15"/><br><br>
+ADDRESS:&nbsp&nbsp
+<textarea></textarea><br><br>
+AGE:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="number"size="15"/><br><br>
+GENDER:
+<input type="radio" name="gender" value="male"/>male
+<input type="radio" name="gender" value="female"/>female
+<input type="radio" name="gender" value="other"/>others<br><br>
+NUMBER:&nbsp&nbsp&nbsp&nbsp
+<input type="number"/><br><br>
+EMAILID:&nbsp&nbsp&nbsp&nbsp
+<input type="email"/><br><br>
+COURSE:&nbsp&nbsp&nbsp&nbsp&nbsp
+<select>
+<option>course</option>
+<option>BCA</option>
+<option>BSC</option>
+<option>BCOM</option>
+<option>BA</option>
+</select><br><br>
+HOBBIES:
+<input type="checkbox" id="reading" name="reading" value="reading">
+<label for "reading">reading</label>
+<input type="checkbox" id="playing" name="playing" value="playing">
+<label for "playing">playing</label>
+<input type="checkbox" id="others" name="others" value="others">
+<label for "others">others</label><br><br>
+<input type="button" value="clear">
+<input type="button" value="submit">
+</form>
+</body>
+</html>
