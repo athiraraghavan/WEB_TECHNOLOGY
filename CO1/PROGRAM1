@@ -1,1 +1,30 @@
-
+<html>
+<title>basic tags</title>
+<head></head>
+<body bgcolor="black">
+<h1 align="center"><font color="white">COLLEGE OF ENGINEERING VADAKARA</font></h1>
+<h2 align="center"><font color="white">UNDER CAPE-GOVT OF KERALA</h2>
+<h2 align="center"><font color="white">An institution accredited by NAAC with
+B+</font></h2>
+<h3 align="center"><font color="white"><i><b><marquee>Welcome to
+CEV</marquee></font></b></i></h3><hr/>
+<p><font color="white">CEV formerly known as cooperative institute of technology,Vadakara,is
+the first engineering college under cooperative academy of proffesional
+education(CAPE)established in year 1999.This was started with a board vision of assisting the
+goverment to impart quality education to the meritirious and economically backward students
+in the state without much financial burden.</font></p>visit the website<a
+href="https://www.cev.ac.in">click here</a>
+<img src="C:\Users\USER\Desktop\cev.jpg"></img>
+<h3>VISION</h3><hr/>
+To be a world class technical institute with highest quality and standards of excellence to meet
+the demands of bussiness,industry and community<hr/>
+<h3>mission</h3><hr/>
+To develop a high quality personal with sound footing on basic engineering princple,innovatives
+research capabilities and expentary proffesional conduct and lead use of technology.<hr/>
+<h3>KEYHIGHLIGHTS</h3><hr/>
+<ul>
+<li>A premier institute with NACC accrediation</li>
+<li>Institution under CAPE govt.of kerala</li>
+<li>TEQIP fuounded institution by MHRD</li>
+</body>
+</html>
