@@ -1,0 +1,147 @@
+<html>
+<head>
+</head>
+<frameset cols="50%,50%">
+<frame src="string.html">
+<frame src="math1.html">
+</frameset>
+</html>
+
+string.html
+
+
+<html>
+<head</head>
+<body>
+<h2 align="center" id="docs">STRING FUNCTIONS</h2>
+<hr width="35%">
+<div class="docs" style="margin-top:4em;">
+<div class="row">
+<div class="content">
+<h3 align="center">substr()</h3>
+<hr width="45%" color="#989898">
+<p> Returns the characters in a string beginning at the specified location through the
+specified number of characters.</p>
+</div>
+<div class="content">
+<h3 align="center">toLowerCase()</h3>
+<hr width="45%" color="#989898">
+<p>Returns the calling string value converted to lower case.</p>
+</div>
+<div class="content">
+<h3 align="center">toUpperCase()</h3>
+<hr width="45%" color="#989898">
+<p>Returns the calling string value converted to uppercase.</p>
+</div>
+</div>
+<div class="row">
+<div class="content">
+<h3 align="center">charCodeAt()</h3>
+<hr width="45%" color="#989898">
+<p> Returns a number indicating the Unicode value of the character at the given index.
+</p>
+</div>
+<div class="content">
+<h3 align="center"> charAt()</h3>
+<hr width="45%" color="#989898">
+<p>Returns a string containing the source of the Boolean object; you can use this string to
+create an
+equivalent object..</p>
+</div>
+<div class="content">
+<h3 align="center">concat()</h3>
+<hr width="45%" color="#989898">
+<p>Combines the text of two strings and returns a new string.</p>
+</div>
+</div>
+<div class="row">
+<div class="content">
+<h3 align="center"> indexOf()</h3>
+<hr width="45%" color="#989898">
+<p> Returns the index within the calling String object of the first occurrence of the
+specified value,
+or -1 if not found.</p>
+</div>
+<div class="content">
+<h3 align="center">length()</h3>
+<hr width="45%" color="#989898">
+<p>Returns the length of the string.</p>
+</div>
+<div class="content">
+<h3 align="center"> replace()</h3>
+<hr width="45%" color="#989898">
+<p>Used to find a match between a regular expression and a string, and to replace the
+matched substring
+with a new substring.</p>
+</div>
+</div>
+<div class="row">
+<div class="content">
+<h3 align="center"> search()</h3>
+<hr width="45%" color="#989898">
+<p>Executes the search for a match between a regular expression and a specified string.
+</p>
+</div>
+<div class="content">
+<h3 align="center"> slice()</h3>
+<hr width="45%" color="#989898">
+<p>Extracts a section of a string and returns a new string.</p>
+</div>
+<div class="content">
+<h3 align="center"> split()</h3>
+<hr width="45%" color="#989898">
+<p>Splits a String object into an array of strings by separating the string into substrings.
+</p>
+</div>
+</div>
+</body>
+</html>
+
+Math.html
+
+
+<html>
+<head</head>
+<body>
+<h2 align="center" id="docs">MATH FUNCTIONS</h2>
+<hr width="35%">
+<div class="docs" style="margin-top:4em;">
+<div class="row">
+<div class="content">
+<h3 align="center">Math.round()</h3>
+<hr width="45%" color="#989898">
+<p> Math.round(x) returns the nearest integer:</p>
+</div>
+<div class="content">
+<h3 align="center">Math.ceil()</h3>
+<hr width="45%" color="#989898">
+<p>Math.ceil(x) returns the value of x rounded up to its nearest integer:</p>
+</div>
+<div class="content">
+<h3 align="center">Math.floor()</h3>
+<hr width="45%" color="#989898">
+<p>Math.floor(x) returns the value of x rounded down to its nearest integer:</p>
+</div>
+</div>
+<div class="row">
+<div class="content">
+<h3 align="center">Math.pow()</h3>
+<hr width="45%" color="#989898">
+<p> Math.pow(x, y) returns the value of x to the power of y:
+</p>
+</div>
+<div class="content">
+<h3 align="center"> Math.sqrt()</h3>
+<hr width="45%" color="#989898">
+<p>Math.sqrt(x) returns the square root of x:</p>
+</div>
+<div class="content">
+<h3 align="center">Math.abs()</h3>
+<hr width="45%" color="#989898">
+<p>Math.abs(x) returns the absolute (positive) value of x:
+</p>
+</div>
+</div>
+</div>
+</body>
+</html>
