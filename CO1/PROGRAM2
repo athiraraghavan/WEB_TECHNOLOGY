@@ -1,1 +1,55 @@
+<html>
+<head>
+<title>image formation</title>
+</head>
+<body bgcolor="cyan">
+<h1 align="center"><marquee><font color="red">WELCOME TO COLLEGE OF ENGINEERING
+VADAKARA</font></marquee></h1>
+<hr/>
+<center><img src="C:\Users\USER\Desktop\cev.jpg" usemap="#image" width="600"
+height="450"></center>
+<map name="image">
+<area shape="rect"coords="34,44,270,350" alt="building" href="https://www.cev.ac.in">
+</map>
+<br><br><br>
+<hr/>
+<center><a href="table.html">for course details click here</a></center>
+<center><a href="https://www.cev.ac.in"> for college details click here </a></center>
+</body>
+</html>
 
+
+
+table.html
+
+
+<html>
+<body bgcolor=”yellow”>
+<h1 align="center">COURSE DETAILS</h1>
+<table border="2">
+<thead>
+ <tr>
+ <th>COURSENO</th>
+<th>NAME OF DEPARTMENT</th>
+<th>FEES</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>CIVIL ENGINEERING</td>
+<td>25000</td>
+</tr>
+<tr>
+<td>2</td>
+<td>ELECTRONICS</td>
+<td>25000</td>
+</tr>
+<tr>
+<td>2</td>
+<td>MCA</td>
+<td>26000</td>
+</tr>
+</tbody>
+</body>
+</html>
